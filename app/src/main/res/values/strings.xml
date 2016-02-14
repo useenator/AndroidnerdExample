@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">"Android Handler Example "</string>
+    <array name="list_url">
+        <item>http://image.tmdb.org/t/p/original/fYzpM9GmpBlIC893fNjoWCwE24H.jpg</item>
+        <item>http://image.tmdb.org/t/p/original/8oNxf7NQa5Zcm4oAq5MH0G9i54k.jpg</item>
+        <item>http://i0.wp.com/moviefail.com/wp-content/uploads/2014/04/thegrandbudapesthotel3.jpg</item>
+        <item>http://image.tmdb.org/t/p//original//rSf0RYkPiMo9TyjHs2vI8rHlmfF.jpg</item>
+        <item>http://image.tmdb.org/t/p/original/8uO0gUM8aNqYLs1OsTBQiXu0fEv.jpg</item>
+    </array>
+</resources>
+
+<!--
+<item>http://1.bp.blogspot.com/-thhMxkxShpo/VQ1j1ciOmFI/AAAAAAAAKFg/Nb9vH3FoxoM/s1600/7.%2BArizona%2BDream%2B(1992).jpg</item>-->
